@@ -3,8 +3,8 @@ package commands
 import (
 	"fmt"
 
-	"github.com/docker/machine/libmachine"
-	"github.com/docker/machine/libmachine/state"
+	"github.com/hetong07/machine/libmachine"
+	"github.com/hetong07/machine/libmachine/state"
 )
 
 type errStateInvalidForSSH struct {

@@ -6,10 +6,10 @@ import (
 
 	"bytes"
 
-	"github.com/docker/machine/commands/commandstest"
-	"github.com/docker/machine/libmachine/host"
-	"github.com/docker/machine/libmachine/libmachinetest"
-	"github.com/docker/machine/libmachine/mcndockerclient"
+	"github.com/hetong07/machine/commands/commandstest"
+	"github.com/hetong07/machine/libmachine/host"
+	"github.com/hetong07/machine/libmachine/libmachinetest"
+	"github.com/hetong07/machine/libmachine/mcndockerclient"
 	"github.com/stretchr/testify/assert"
 )
 

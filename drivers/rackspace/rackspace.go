@@ -3,10 +3,10 @@ package rackspace
 import (
 	"fmt"
 
-	"github.com/docker/machine/drivers/openstack"
-	"github.com/docker/machine/libmachine/drivers"
-	"github.com/docker/machine/libmachine/log"
-	"github.com/docker/machine/libmachine/mcnflag"
+	"github.com/hetong07/machine/drivers/openstack"
+	"github.com/hetong07/machine/libmachine/drivers"
+	"github.com/hetong07/machine/libmachine/log"
+	"github.com/hetong07/machine/libmachine/mcnflag"
 )
 
 // Driver is a machine driver for Rackspace. It's a specialization of the generic OpenStack one.

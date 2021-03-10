@@ -7,8 +7,8 @@ import (
 
 	"errors"
 
-	"github.com/docker/machine/libmachine"
-	"github.com/docker/machine/libmachine/log"
+	"github.com/hetong07/machine/libmachine"
+	"github.com/hetong07/machine/libmachine/log"
 )
 
 func cmdRm(c CommandLine, api libmachine.API) error {

@@ -6,9 +6,9 @@ import (
 
 	"time"
 
-	"github.com/docker/machine/libmachine"
-	"github.com/docker/machine/libmachine/persist"
-	"github.com/docker/machine/libmachine/state"
+	"github.com/hetong07/machine/libmachine"
+	"github.com/hetong07/machine/libmachine/persist"
+	"github.com/hetong07/machine/libmachine/state"
 )
 
 const (

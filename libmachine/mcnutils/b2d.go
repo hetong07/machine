@@ -17,8 +17,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/docker/machine/libmachine/log"
-	"github.com/docker/machine/version"
+	"github.com/hetong07/machine/libmachine/log"
+	"github.com/hetong07/machine/version"
 )
 
 const (

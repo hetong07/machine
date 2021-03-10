@@ -6,11 +6,11 @@ import (
 	"net"
 	"strings"
 
-	"github.com/docker/machine/libmachine/drivers"
-	"github.com/docker/machine/libmachine/log"
-	"github.com/docker/machine/libmachine/mcnflag"
-	"github.com/docker/machine/libmachine/ssh"
-	"github.com/docker/machine/libmachine/state"
+	"github.com/hetong07/machine/libmachine/drivers"
+	"github.com/hetong07/machine/libmachine/log"
+	"github.com/hetong07/machine/libmachine/mcnflag"
+	"github.com/hetong07/machine/libmachine/ssh"
+	"github.com/hetong07/machine/libmachine/state"
 )
 
 // Driver is a struct compatible with the docker.hosts.drivers.Driver interface.

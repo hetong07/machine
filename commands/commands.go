@@ -7,15 +7,15 @@ import (
 	"strings"
 
 	"github.com/codegangsta/cli"
-	"github.com/docker/machine/commands/mcndirs"
-	"github.com/docker/machine/libmachine"
-	"github.com/docker/machine/libmachine/crashreport"
-	"github.com/docker/machine/libmachine/host"
-	"github.com/docker/machine/libmachine/log"
-	"github.com/docker/machine/libmachine/mcnerror"
-	"github.com/docker/machine/libmachine/mcnutils"
-	"github.com/docker/machine/libmachine/persist"
-	"github.com/docker/machine/libmachine/ssh"
+	"github.com/hetong07/machine/commands/mcndirs"
+	"github.com/hetong07/machine/libmachine"
+	"github.com/hetong07/machine/libmachine/crashreport"
+	"github.com/hetong07/machine/libmachine/host"
+	"github.com/hetong07/machine/libmachine/log"
+	"github.com/hetong07/machine/libmachine/mcnerror"
+	"github.com/hetong07/machine/libmachine/mcnutils"
+	"github.com/hetong07/machine/libmachine/persist"
+	"github.com/hetong07/machine/libmachine/ssh"
 )
 
 const (

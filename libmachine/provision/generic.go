@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"text/template"
 
-	"github.com/docker/machine/libmachine/auth"
-	"github.com/docker/machine/libmachine/drivers"
-	"github.com/docker/machine/libmachine/engine"
-	"github.com/docker/machine/libmachine/swarm"
+	"github.com/hetong07/machine/libmachine/auth"
+	"github.com/hetong07/machine/libmachine/drivers"
+	"github.com/hetong07/machine/libmachine/engine"
+	"github.com/hetong07/machine/libmachine/swarm"
 )
 
 type GenericProvisioner struct {

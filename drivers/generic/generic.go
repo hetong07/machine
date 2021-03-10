@@ -9,12 +9,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/docker/machine/libmachine/drivers"
-	"github.com/docker/machine/libmachine/engine"
-	"github.com/docker/machine/libmachine/log"
-	"github.com/docker/machine/libmachine/mcnflag"
-	"github.com/docker/machine/libmachine/mcnutils"
-	"github.com/docker/machine/libmachine/state"
+	"github.com/hetong07/machine/libmachine/drivers"
+	"github.com/hetong07/machine/libmachine/engine"
+	"github.com/hetong07/machine/libmachine/log"
+	"github.com/hetong07/machine/libmachine/mcnflag"
+	"github.com/hetong07/machine/libmachine/mcnutils"
+	"github.com/hetong07/machine/libmachine/state"
 )
 
 type Driver struct {

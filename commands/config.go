@@ -5,10 +5,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/docker/machine/commands/mcndirs"
-	"github.com/docker/machine/libmachine"
-	"github.com/docker/machine/libmachine/check"
-	"github.com/docker/machine/libmachine/log"
+	"github.com/hetong07/machine/commands/mcndirs"
+	"github.com/hetong07/machine/libmachine"
+	"github.com/hetong07/machine/libmachine/check"
+	"github.com/hetong07/machine/libmachine/log"
 )
 
 func cmdConfig(c CommandLine, api libmachine.API) error {

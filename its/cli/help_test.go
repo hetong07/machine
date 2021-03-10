@@ -3,7 +3,7 @@ package cli
 import (
 	"testing"
 
-	"github.com/docker/machine/its"
+	"github.com/hetong07/machine/its"
 )
 
 func TestHelp(t *testing.T) {

@@ -1,6 +1,6 @@
 package host
 
-import "github.com/docker/machine/libmachine/drivers"
+import "github.com/hetong07/machine/libmachine/drivers"
 
 type V2 struct {
 	ConfigVersion int

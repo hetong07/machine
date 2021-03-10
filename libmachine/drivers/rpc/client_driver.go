@@ -8,12 +8,12 @@ import (
 
 	"io"
 
-	"github.com/docker/machine/libmachine/drivers"
-	"github.com/docker/machine/libmachine/drivers/plugin/localbinary"
-	"github.com/docker/machine/libmachine/log"
-	"github.com/docker/machine/libmachine/mcnflag"
-	"github.com/docker/machine/libmachine/state"
-	"github.com/docker/machine/libmachine/version"
+	"github.com/hetong07/machine/libmachine/drivers"
+	"github.com/hetong07/machine/libmachine/drivers/plugin/localbinary"
+	"github.com/hetong07/machine/libmachine/log"
+	"github.com/hetong07/machine/libmachine/mcnflag"
+	"github.com/hetong07/machine/libmachine/state"
+	"github.com/hetong07/machine/libmachine/version"
 )
 
 var (

@@ -1,8 +1,8 @@
 package provision
 
 import (
-	"github.com/docker/machine/libmachine/auth"
-	"github.com/docker/machine/libmachine/engine"
+	"github.com/hetong07/machine/libmachine/auth"
+	"github.com/hetong07/machine/libmachine/engine"
 )
 
 type EngineConfigContext struct {
